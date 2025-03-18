@@ -9,7 +9,7 @@
 - Natural Language Processing
 - Computer Vision
 
-- 🔭 I’m currently working on Atw.Ltd
+- 🔭 I’m currently working on corporatica
 - 🌱 I’m currently learning LLM
 - 📫 How to reach me :moazgamal1011@gmail.com
 
